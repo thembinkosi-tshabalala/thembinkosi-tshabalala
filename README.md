@@ -42,8 +42,9 @@ Data Visualization
 Business Intelligence
 Data Analytics Portfolio
 
-📫 Connect With Me
-LinkedIn: Thembinkosi Tshabalala
+## 📫 Connect With Me
+
+**LinkedIn:** [Thembinkosi Tshabalala](https://www.linkedin.com/in/thembinkosi-tshabalala-065261298)
 
 Building practical projects and continuously developing my data analytics skills.
 
